@@ -1,0 +1,40 @@
+{
+    "name": "splintnet/awesome-contao-bundle",
+    "description": "An bundle with awesome contao extensions",
+    "license": "MIT",
+    "authors": [{
+        "name": "Jonas Imping",
+        "homepage": "https://github.com/splintnet"
+    }],
+    "require": {
+        "php": ">=7.3",
+        "codefog/contao-news_categories": "^3.0",
+        "contao-bootstrap/bundle": "^2.1",
+        "hschottm/tags": "^4.0",
+        "terminal42/contao-url-rewrite": "^1.3",
+        "spatie/image-optimizer": "^1.2",
+        "league/glide": "^1.4",
+        "bugbuster/contao-mobiledetection-bundle": "^1.0",
+        "christianbarkowsky/rel-canonical": "^3.3",
+        "guzzlehttp/guzzle": "^6.4",
+        "derhaeuptling/contao-mobilecontent": "^2.2",
+        "contao-components/html5shiv": "^3.7",
+        "madeyourday/contao-rocksolid-custom-elements": "^2.2",
+        "metamodels/bundle_start": "^2.1",
+        "pdir/amphtml-bundle": "^0.1.8",
+        "terminal42/contao-changelanguage": "^3.1",
+        "madeyourday/contao-rocksolid-frontend-helper": "^2.0",
+        "metamodels/attribute_rating": "^2.1",
+        "metamodels/attribute_country": "^2.1",
+        "terminal42/contao-folderpage": "^2.0",
+        "fipps/contao-rssimport-bundle": "^4.1",
+        "menatwork/contao-multicolumnwizard-bundle": "^3.4",
+        "dieschittigs/contao-recaptcha": "^1.2",
+        "terminal42/contao-node": "^1.1",
+        "bugbuster/contao-banner-bundle": "^1.1",
+        "inspiredminds/contao-wowjs": "^1.1",
+        "fritzmg/contao-sharebuttons": "^2.1",
+        "fritzmg/contao-swiper": "^3.4",
+        "bastibuck/contao-ab-testing": "^2.0"
+    }
+}
